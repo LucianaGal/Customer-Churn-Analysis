@@ -54,5 +54,5 @@ Based on the churn analysis insights, the following actions are recommended to r
   Track service usage patterns to detect early signs of disengagement and trigger timely outreach.
 
 
-## Dashboard Link (if using Tableau Public)
+## Dashboard Link
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/luciana5220/viz/analyzing-customer-churn-in-tableau/ChurnAnalysis?publish=yes)
